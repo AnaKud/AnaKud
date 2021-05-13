@@ -3,8 +3,8 @@
       <h2> Anastasia Kudasheva </h2>
       <table>
          <tr>
-            <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/MyIcon.png?raw=true" width="100" > </td>
-            <td> iOS Developer, St.Petesburg, Russia <br> Key skills: Swift 5+, UIKit, CoreData, WatchKit, AutoLayout, GCD, MVC and VIP (Clean Swift), API, Firebase, Carthage, SpriteKit, HTML <br> https://t.me/anakud </td>
+            <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/MyIcon.png?raw=true" width="150" > </td>
+            <td> iOS Developer, St.Petesburg, Russia <br> Key skills: Swift 5+, UIKit, CoreData, WatchKit, AutoLayout, GCD, MVC and VIP (Clean Swift), API, Firebase, Carthage, SpriteKit, HTML <br> Contact me: https://t.me/anakud <br> My blog: https://t.me/SwiftGirl </td>
          </tr>
       </table>
       <h3>Pet projects published on GitHub:</h3>
@@ -33,12 +33,12 @@
          </tr>
          <tr>
             <td> No image  </td>
-            <td>  Simple Notes App with CoreData. FocusStart test app <br>
+            <td> 4. Simple Notes App with CoreData. FocusStart test app <br>
             https://github.com/AnaKud/Notes </td>
          </tr>
         <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/Stock.gif?raw=true" width="200"> </td>
-            <td> Stocks (Pet projects not published on GitHub) </td>
+            <td> 5. Stocks (Pet projects not published on GitHub) </td>
          </tr>
       </table>
       <br> <br>
