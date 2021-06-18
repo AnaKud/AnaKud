@@ -10,8 +10,16 @@
       <h3>Pet projects published on GitHub:</h3>
       <table>
          <tr>
+            <td> <img src="https://github.com/AnaKud/Nook-s-Bank/blob/main/Attachments/NBGif.gif?raw=true" width="200" > </td>
+            <td> 1. Nook's Bank <br>
+               iOS application for reading News about events in Animal Crossing and Bank App for your Bells Acoount. <br>
+               MVP, FireBase(Auth&DB), API, CoreData, SnapKit were used in project <br>
+               https://github.com/AnaKud/Nook-s-Bank
+            </td>
+         </tr>
+         <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/CNJokes.gif?raw=true" width="200" > </td>
-            <td> 1. Chuck Norris Jokes <br>
+            <td> 2. Chuck Norris Jokes <br>
                App for fetching jokes about Chuck Norris from server. Just select a number of jokes and enjoy. <br>
                API was used in project <br>
                https://github.com/AnaKud/ChuckNorrisJokes 
@@ -19,26 +27,26 @@
          </tr>
          <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/iTunesSearcher.gif?raw=true" width="200"> </td>
-            <td> 2. iTunes Searcher <br>
+            <td> 3. iTunes Searcher <br>
                App for searching albums in iTunes and displaying list of songs<br>
                https://github.com/AnaKud/iTunesSearchAPI 
             </td>
          </tr>
          <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/VacationCalc.gif?raw=true" width="200"> </td>
-            <td> 3. Vacation Calculator <br>
+            <td> 4. Vacation Calculator <br>
                App for calculating vacation pay. Simple native app<br>
                https://github.com/AnaKud/VacationCalculator 
             </td>
          </tr>
          <tr>
             <td> No image  </td>
-            <td> 4. Simple Notes App with CoreData. FocusStart test app <br>
+            <td> 5. Simple Notes App with CoreData. FocusStart test app <br>
             https://github.com/AnaKud/Notes </td>
          </tr>
         <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/Stock.gif?raw=true" width="200"> </td>
-            <td> 5. Stocks (Pet projects not published on GitHub) </td>
+            <td> 6. Stocks (Pet projects not published on GitHub) </td>
          </tr>
       </table>
       <br> <br>
