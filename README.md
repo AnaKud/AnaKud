@@ -4,7 +4,7 @@
       <table>
          <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/MyIcon.png?raw=true" width="150" > </td>
-            <td> iOS Developer, St.Petesburg, Russia <br> Key skills: Swift 5+, UIKit, CoreData, WatchKit, AutoLayout, GCD, MVC and VIP (Clean Swift), API, Firebase, Carthage, SpriteKit, HTML <br> Contact me: https://t.me/anakud <br> My blog: https://t.me/SwiftGirl </td>
+            <td> iOS Developer, ЕКП, St.Petesburg, Russia <br> Key skills: Swift 5+, UIKit, CoreData, WatchKit, AutoLayout, GCD, MVC, MVP, VIP (Clean Swift), API, Firebase, Carthage, SpriteKit, HTML <br> Contact me:  <a href="https://t.me/anakud">Telegram</a> <br> My blog: <a href="https://t.me/SwiftGirl">SwiftGirl</a> </td>
          </tr>
       </table>
       <h3>Pet projects published on GitHub:</h3>
@@ -14,7 +14,7 @@
             <td> 1. Nook's Bank <br>
                iOS application for reading News about events in Animal Crossing and Bank App for your Bells Acoount. <br>
                MVP, FireBase(Auth&DB), API, CoreData, SnapKit were used in project <br>
-               https://github.com/AnaKud/Nook-s-Bank
+               <a href="https://github.com/AnaKud/Nook-s-Bank">GitHub</a>
             </td>
          </tr>
          <tr>
@@ -22,27 +22,27 @@
             <td> 2. Chuck Norris Jokes <br>
                App for fetching jokes about Chuck Norris from server. Just select a number of jokes and enjoy. <br>
                API was used in project <br>
-               https://github.com/AnaKud/ChuckNorrisJokes 
+                <a href="https://github.com/AnaKud/ChuckNorrisJokes">GitHub</a>
             </td>
          </tr>
          <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/iTunesSearcher.gif?raw=true" width="200"> </td>
             <td> 3. iTunes Searcher <br>
                App for searching albums in iTunes and displaying list of songs<br>
-               https://github.com/AnaKud/iTunesSearchAPI 
+               <a href="https://github.com/AnaKud/iTunesSearchAPI">GitHub</a>
             </td>
          </tr>
          <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/VacationCalc.gif?raw=true" width="200"> </td>
             <td> 4. Vacation Calculator <br>
                App for calculating vacation pay. Simple native app<br>
-               https://github.com/AnaKud/VacationCalculator 
+               <a href="https://github.com/AnaKud/VacationCalculator">GitHub</a>
             </td>
          </tr>
          <tr>
             <td> No image  </td>
             <td> 5. Simple Notes App with CoreData. FocusStart test app <br>
-            https://github.com/AnaKud/Notes </td>
+            <a href="https://github.com/AnaKud/Notes">GitHub</a> </td>
          </tr>
         <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/Stock.gif?raw=true" width="200"> </td>
@@ -57,7 +57,7 @@
             <td> 1. VK news Feed<br>
                App for news viewing from vk.com. <br>
                Clean Swift, UIKit, Carthage and VK SDK were used in project<br>
-               https://github.com/AnaKud/VKnewsFeed 
+               <a href="https://github.com/AnaKud/VKnewsFeed">GitHub</a> 
             </td>
          </tr>
          <tr>
@@ -65,21 +65,21 @@
             <td> 2. Birthdays tracker <br>
                App for tracking your friends birthday.<br>
                CoreData and Notification Center were used in project<br>
-               https://github.com/AnaKud/BirthdaysTracker
+               <a href="https://github.com/AnaKud/BirthdaysTracker">GitHub</a>
             </td>
          </tr>
          <tr>
             <td> <img src=https://github.com/AnaKud/AnaKud/blob/main/Attachments/GuessIt.gif?raw=true" width="200"> </td>
             <td> 3. Guess Movie<br>
                Simple game to guessing movies by emoji for Apple Watch.<br>
-               https://github.com/AnaKud/guessMovie
+               <a href="https://github.com/AnaKud/guessMovie">GitHub</a>
             </td>
          </tr>
          <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/ToDoFire.gif?raw=true" width="200"> </td>
             <td> 4. ToDo List<br>
                Simple ToDo List with Firebase<br>
-               https://github.com/AnaKud/ToDoFire 
+               <a href="https://github.com/AnaKud/ToDoFire">GitHub</a>
             </td>
          </tr>
       </table>
@@ -88,7 +88,7 @@
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/SkateBoard.gif?raw=true" height="200"> </td>
             <td> 5. SchoolhouseSkateboard<br>
                iOS Game. Study Project. Using SpriteKit<br>
-               https://github.com/AnaKud/SchoolhouseSkateboard
+                <a href="https://github.com/AnaKud/SchoolhouseSkateboard">GitHub</a>
             </td>
          </tr>
       </table>
