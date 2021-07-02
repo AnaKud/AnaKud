@@ -1,10 +1,14 @@
 <html>
    <body>
-      <h2> Anastasia Kudasheva </h2>
+      <h2> Anastasia Kudasheva <a href="https://www.codewars.com/users/AnaKud"><img src="https://www.codewars.com/users/AnaKud/badges/large" align="right"></a></h2> 
       <table>
          <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/MyIcon.png?raw=true" width="150" > </td>
-            <td> iOS Developer, ЕКП, St.Petesburg, Russia <br> Key skills: Swift 5+, UIKit, CoreData, WatchKit, AutoLayout, GCD, MVC, MVP, VIP (Clean Swift), API, Firebase, Carthage, SpriteKit, HTML <br> Contact me:  <a href="https://t.me/anakud">Telegram</a> <br> My blog: <a href="https://t.me/SwiftGirl">SwiftGirl</a> </td>
+            <td> iOS Developer, ЕКП, St.Petesburg, Russia <br> Key skills: Swift 5+, UIKit, CoreData, WatchKit, AutoLayout, GCD, MVC, MVP, VIP (Clean Swift), API, Firebase, Carthage, SpriteKit, HTML 
+               <br> Contact me:  <a href="https://t.me/anakud">Telegram</a> 
+               <br> My blog: <a href="https://t.me/SwiftGirl">SwiftGirl</a> 
+               <br> 
+                </td>
          </tr>
       </table>
       <h3>Pet projects published on GitHub:</h3>
