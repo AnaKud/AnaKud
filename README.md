@@ -5,7 +5,7 @@
       <table>
          <tr>
             <td> <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/MyIcon.png?raw=true" width="150" > 
-               
+               </td> 
             <td> iOS Developer, EKP, St.Petesburg, Russia 
                <br> <b>Key skills: </b> Swift 5+, UIKit, CoreData, WatchKit, AutoLayout, GCD, MVC, MVP, VIP (Clean Swift), API, Firebase, Carthage, SpriteKit, HTML 
                <br> <b>Contact me: </b>  <a href="https://t.me/anakud">Telegram</a> 
