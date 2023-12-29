@@ -4,8 +4,8 @@
       <table>
          <tr>
            <img src="https://github.com/AnaKud/AnaKud/blob/main/Attachments/AnaKudTeamplate.png?raw=true">
-            <br> Key skills: Swift, UIKit, Snapkit, URLSession, Alamofire, CoreData, Firebase, SPM, Carthage, AVFoundation, CoreMotion, WatchKit
-            <br> Architecture patterns: MVP, Clean Swift, Viper
+            <br> Key skills: Swift, UIKit, Snapkit, SwiftUI, URLSession, Alamofire, CoreData, Firebase, SPM, Carthage, AVFoundation, CoreMotion, WatchKit
+            <br> Architecture patterns: MVP, Clean Swift, Viper, MVVM
             <br> TDD: Unit tests && UITests
             <br> Contact me: https://t.me/anakud
          </tr>
